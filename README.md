@@ -72,18 +72,5 @@ npm run start:prod
 
 A aplicação estará disponível em `http://localhost:3000`.
 
-## Estrutura do Projeto
-
-```
-src/
- ├── modules/          # Módulos da aplicação (ex: produtos, estoque)
- ├── prisma/           # Configuração e service do Prisma
- └── main.ts
-prisma/
- ├── schema.prisma     # Schema do banco de dados
- └── migrations/       # Histórico de migrations
-```
-
 ## Obs:
-
 Projeto criado com fins de estudo/aula, focado em praticar integração entre NestJS e Prisma ORM com banco MySQL.

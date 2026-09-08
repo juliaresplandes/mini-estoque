@@ -8,7 +8,6 @@ Projetinho feito em aula para praticar **NestJS** com **Prisma ORM**, simulando 
 - [Prisma ORM](https://www.prisma.io/)
 - [MySQL](https://www.mysql.com/)
 - TypeScript
-- Node.js
 
 ##  Pré-requisitos
 

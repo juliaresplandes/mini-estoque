@@ -52,12 +52,6 @@ Rodar as migrations:
 npx prisma migrate dev
 ```
 
-Visualizar o banco com o Prisma Studio:
-
-```bash
-npx prisma studio
-```
-
 ## Executando o projeto
 
 ```bash

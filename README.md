@@ -55,10 +55,7 @@ npx prisma migrate dev
 
 ```bash
 npm run start
-npm run start:prod
 ```
 
 A aplicação estará disponível em `http://localhost:3000`.
 
-## Obs:
-Projeto criado com fins de estudo/aula, focado em praticar integração entre NestJS e Prisma ORM com banco MySQL.

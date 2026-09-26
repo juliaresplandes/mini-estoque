@@ -12,7 +12,6 @@ Projetinho feito em aula para praticar **NestJS** com **Prisma ORM**, simulando 
 ##  Pré-requisitos
 
 - Node.js >= 18
-- npm
 - MySQL rodando localmente (ou em container)
 
 ## Instalação
@@ -55,11 +54,7 @@ npx prisma migrate dev
 ## Executando o projeto
 
 ```bash
-# desenvolvimento
-npm run start:dev
-
-# produção
-npm run build
+npm run start
 npm run start:prod
 ```
 
